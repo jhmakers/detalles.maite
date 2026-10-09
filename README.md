@@ -1,1 +1,1 @@
-# detalles.maite
+# detallesmaite
